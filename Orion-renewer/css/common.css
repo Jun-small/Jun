@@ -358,6 +358,40 @@ article a.more-btn{
 
 /* marketO완료 */
 /* dr.you시작 */
+.dr-you-wrapper h2{
+    color: #E8722D;
+}
+.dr-you-wrapper p{
+    font-size: 2.5rem;
+    color: #333333;  
+    text-align: center;
+    line-height: 130%;     
+}
+.dr-you-wrapper ul{
+    display: flex;    
+    flex-wrap: wrap;
+}
+.dr-you-wrapper ul li{
+    position: relative;
+}
+.dr-you-wrapper ul li a{
+    position: relative;
+}
+.dr-you-wrapper ul a span{
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 1.5rem 0rem 1.5rem 1.5rem;
+    box-sizing: border-box;
+}
+
+
+
+
 
 
 
